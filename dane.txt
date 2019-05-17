@@ -1,0 +1,11 @@
+10
+TV 2.5 2000
+komputer 2 1500
+telefon 1 1000
+pralka 1.5 800
+super_komputer 4 4500
+sluchawki 0.2 100
+lodowka 1.2 1200
+zmywarka 2 650
+tablet 3 3000
+odkurzacz 0.5 900
